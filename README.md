@@ -1,7 +1,5 @@
-## DATE:
-## Name:SARAVANAN G
-## Reg no:212223230194
-
+## Name:BARANI SS
+## Reg no:212224230032
 # EX-1:Mean and variance of a discrete  distribution
 
 
